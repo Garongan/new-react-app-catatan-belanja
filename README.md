@@ -7,7 +7,7 @@
   - Mengurutkan List
 
 # Screenshot
-  [App Catatan Belanja](screenshot.png)
+  ![App Catatan Belanja](screenshot.png)
 
 # Demo
   [Demo Link](https://garongan.github.io/new-react-app-catatan-belanja)
