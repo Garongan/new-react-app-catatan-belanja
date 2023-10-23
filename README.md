@@ -12,4 +12,4 @@
   ![App Catatan Belanja](react-app-belanja-mobile.webp)
 
 # Demo
-  [Demo Link](https://garongan.github.io/new-react-app-catatan-belanja)
+  [Demo Link](https://new-react-app-catatan-belanja.vercel.app/)
