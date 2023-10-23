@@ -7,7 +7,9 @@
   - Mengurutkan List
 
 # Screenshot
-  ![App Catatan Belanja](screenshot.png)
+  ![App Catatan Belanja](react-app-belanja-dekstop.webp)
+  ![App Catatan Belanja](react-app-belanja-tablet.webp)
+  ![App Catatan Belanja](react-app-belanja-mobile.webp)
 
 # Demo
   [Demo Link](https://garongan.github.io/new-react-app-catatan-belanja)
